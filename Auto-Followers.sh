@@ -1,7 +1,6 @@
 
 #!/bin/bash
-# Auto FOllowers By WEB HUNTER v1.0
-# published by @xd20111 
+# Auto FOllowers By WEB HUNTER v1.0 
 # IG @its_web_hunter
 # coded by: @WEB_HUNTER
 # github.com/web-hunt3r/Auto_Followers
